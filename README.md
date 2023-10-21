@@ -5,3 +5,4 @@ Chapters
 
 1. Parts of a Program
 2. Variables and Constants
+3. Expressions, Statements, and Operators
