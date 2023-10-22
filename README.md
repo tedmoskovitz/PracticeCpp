@@ -3,6 +3,7 @@
 
 Chapters
 
-1. Parts of a Program
-2. Variables and Constants
-3. Expressions, Statements, and Operators
+2. Parts of a Program
+3. Variables and Constants
+4. Expressions, Statements, and Operators
+5. Calling Functions
