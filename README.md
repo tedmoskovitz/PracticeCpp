@@ -8,3 +8,4 @@ Chapters
 4. Expressions, Statements, and Operators
 5. Calling Functions
 6. Controlling the Flow of a Program
+7. Storing Information in Arrays and Strings
