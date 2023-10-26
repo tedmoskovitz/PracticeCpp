@@ -9,3 +9,4 @@ Chapters
 5. Calling Functions
 6. Controlling the Flow of a Program
 7. Storing Information in Arrays and Strings
+8. Creating Basic Classes
