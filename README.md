@@ -12,3 +12,4 @@ Chapters
 8. Creating Basic Classes
 9. Starting Advanced Classes
 10. Creating Pointers
+11. Developing Advanced Pointers
