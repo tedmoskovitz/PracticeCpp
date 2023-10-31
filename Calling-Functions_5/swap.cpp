@@ -1,6 +1,6 @@
 /* A simple program illustrating that by default, function parameters are 
  pass-by-value---that is, modifications to the function arguments don't
- affect the original variables. */
+ affect the original variables. Also, they can only return ≤1 value. */
 #include <iostream>
 
 void swap(int x, int y)
