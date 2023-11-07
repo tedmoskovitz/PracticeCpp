@@ -1,5 +1,6 @@
 # A Collection of Simple C++ Practice Programs
 
+From "Sams Teach Yourself C++" by Cadenhead and Liberty
 
 Chapters
 
@@ -17,3 +18,4 @@ Chapters
 13. Advanced References and Pointers
 14. Advanced Function Calls (Overloading + Deep-Copying)
 15. Operator Overloading
+16. Extending Classes with Inheritance
